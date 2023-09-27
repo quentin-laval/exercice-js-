@@ -27,10 +27,19 @@ jaune{
         width:100%;
         text-align: center;
 
+}
 
+vert{
 
-
-
-
+    background-color: #07ec2d;
+           
+    color: #180404;
+        padding: 10px 0;
+        position:absolute;
+        bottom: 0%;
+        left:0%;
+        height:15%; 
+        width:100%;
+        text-align: center;
 
 }
